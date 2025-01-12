@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @Falcon024
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Paul Mendoza 👋
 
-<!---
-Falcon024/Falcon024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+## About Me
+- 👨‍💻 I am a student currently pursuing a Bachelor of Science in Computer Science (BSCS) at **Metro Business College**.
+- 🎓 24 years old, from the Philippines.
+- 📚 Still studying, but passionate about programming, software development, and exploring new technologies.
+- 💻 Actively learning and improving my skills in various programming languages and tools.
+- 🌱 Enthusiastic about problem-solving and contributing to open-source projects.
+
+## Skills
+- **Programming Languages:** Python, C++, JavaScript
+- **Web Development:** HTML, CSS
+- **Tools & Technologies:** Git, GitHub, MySQL
+- **Other Skills:** Algorithms, Data Structures, Software Development Lifecycle
+
+## Connect with Me
+- 🌍 * Facebook: [Paul Mendoza](https://www.facebook.com/mypaulmendoza/)
+- 🌍 * Instagram: [Paul Mendoza](https://www.instagram.com/mypaulmendoza/)
+- ✉️ Email: npmendoza240@gmail.com
